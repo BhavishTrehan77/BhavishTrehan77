@@ -14,6 +14,7 @@
 - ⚡ Strong interest in Backend Systems & Problem Solving
 - 🗄️ Experience with MongoDB, REST APIs, Authentication
 - 🎯 Goal → Become FAANG-level Software Engineer
+- 🚀 Preparing for Google Summer of Code 2026
 
 ---
 
@@ -35,15 +36,16 @@
 ### 🗄️ Databases
 - MongoDB (Atlas & Compass)
 
-### 🔐 Backend
+### 🔐 Backend & APIs
 - JWT Authentication
 - REST APIs
 - Password Hashing
 - CRUD Operations
 
-### 🛠 Tools
+### 🛠 Tools & Technologies
 - Git & GitHub
 - Swagger API Documentation
+- Postman
 
 ---
 
@@ -68,6 +70,7 @@
 ---
 
 ## 📚 Currently Learning
+
 - Advanced Data Structures & Algorithms
 - System Design Fundamentals
 - Backend Architecture
@@ -76,14 +79,19 @@
 ---
 
 ## 🎯 2026 Goals
-- Contribute to Open Source
-- Crack Internship
-- Google Summer of Code Preparation
-- Build Production Level Applications
+
+- ✅ Contribute to Open Source Projects
+- 🎯 Crack Software Engineering Internship
+- 🚀 Google Summer of Code Preparation
+- 🏗 Build Production Level Applications
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/BhavishTrehan77  
-Email: bhavishtrehan777@gmail.com
+- GitHub → https://github.com/BhavishTrehan77
+- Email → bhavishtrehan777@gmail.com
+
+---
+
+⭐ From [BhavishTrehan77](https://github.com/BhavishTrehan77)
