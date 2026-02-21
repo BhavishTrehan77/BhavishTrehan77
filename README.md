@@ -1,32 +1,31 @@
 # Hi 👋, I'm Bhavish Trehan
 
-🎓 Software Product Engineering Student at SGT University (Kalvium Program)  
+🎓 Software Product Engineering Student @ SGT University (Kalvium Program)  
 💻 MERN Stack Developer | Full Stack Enthusiast  
-🚀 Aspiring Software Development Engineer (FAANG Level)  
-📚 Currently in 2nd Semester  
+🚀 Aspiring Software Development Engineer  
+🌱 Currently learning Data Structures & Algorithms + System Design  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **Integrated Software Product Engineering** at **SGT University with Kalvium**
-- 💡 Passionate about building scalable web applications (Frontend + Backend)
-- 🌱 Currently strengthening **Data Structures & Algorithms**
-- ⚡ Interested in **Backend Systems, Frontend Development, and Problem Solving**
-- 🗄️ Experienced in **CRUD operations using MongoDB Atlas & Compass**
-- 🎯 Goal: Become a **Software Development Engineer at FAANG-level companies**
+- 🎓 2nd Semester Software Product Engineering Student
+- 💡 Passionate about building scalable full-stack applications
+- ⚡ Strong interest in Backend Systems & Problem Solving
+- 🗄️ Experience with MongoDB, REST APIs, Authentication
+- 🎯 Goal → Become FAANG-level Software Engineer
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Languages
+- JavaScript
 - Python
 - C++
 - Java (Basic)
-- JavaScript
 
-### 🌐 Web Development (MERN Stack)
+### 🌐 Web Development
 - HTML
 - CSS
 - React.js
@@ -36,75 +35,55 @@
 ### 🗄️ Databases
 - MongoDB (Atlas & Compass)
 
-### 🔐 Backend & Security
+### 🔐 Backend
 - JWT Authentication
-- Password Hashing
 - REST APIs
+- Password Hashing
 - CRUD Operations
 
-### 🛠️ Tools & Technologies
+### 🛠 Tools
 - Git & GitHub
-- Swagger (API Documentation)
+- Swagger API Documentation
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-🚧 (GitHub links will be added soon)
+### 🛒 MERN E-Commerce App (Ongoing)
+- Authentication system
+- Product management
+- Database integration
+- Full stack architecture
 
-- 🎮 **Whack A Mole Game** — Interactive browser game using JavaScript
-- 🦖 **Dino Game** — Chrome Dino game clone
-- ❌⭕ **Tic Tac Toe Game** — Logic-based game with UI interactions
-- 🌦️ **Weather App** — Weather dashboard using API integration
-- 🌐 **Developer Portfolio Website** — Personal portfolio project
-- 🛒 **Full Stack E-Commerce App (Ongoing)** — MERN stack application with authentication & database integration
+### 🌦 Weather Dashboard
+- API integration
+- Real-time weather data
+- Responsive UI
 
----
-
-## ❤️ Interests
-
-- Backend Development
-- Frontend Development
-- Data Structures & Algorithms
-- Database Design
-- Problem Solving
-- System Design
-- Open Source Contributions
+### 🎮 JavaScript Games
+- Whack A Mole
+- Dino Game Clone
+- Tic Tac Toe
 
 ---
 
 ## 📚 Currently Learning
-
 - Advanced Data Structures & Algorithms
 - System Design Fundamentals
-- Full Stack Development Best Practices
+- Backend Architecture
 - Open Source Contributions
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhavish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavishTrehan77&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavishTrehan77&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=BhavishTrehan77&theme=radical)
-
----
-
-## 🤝 Open Source Goal
-
-I am actively looking to contribute to open-source projects and prepare for **Google Summer of Code (GSoC)**.
-
-If you have beginner-friendly issues or collaboration opportunities, feel free to connect!
+## 🎯 2026 Goals
+- Contribute to Open Source
+- Crack Internship
+- Google Summer of Code Preparation
+- Build Production Level Applications
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/BhavishTrehan77
-- Email: bhavishtrehan777@gmail.com
-
----
-
-⭐ From [BhavishTrehan77](https://github.com/BhavishTrehan77)
+GitHub: https://github.com/BhavishTrehan77  
+Email: bhavishtrehan777@gmail.com
